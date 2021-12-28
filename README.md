@@ -1,5 +1,3 @@
-# Tava
-тава топ
 if (!window["App"]) throw new Error("Critical Error in Application");
 (function m(App) {
 
